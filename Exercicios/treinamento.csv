@@ -1,0 +1,615 @@
+ID,Sexo,Casado,Dependentes,Educacao,Autonomo,Renda,RendaSocio,ValorEmprestimo,Prazo,Adimplente,AreaPropriedade,Concedido
+LP001002,Masculino,Nao,0,Superior,Nao,5849,0,,360,1,Urbano,S
+LP001003,Masculino,Sim,1,Superior,Nao,4583,1508,128,360,1,Rural,N
+LP001005,Masculino,Sim,0,Superior,Sim,3000,0,66,360,1,Urbano,S
+LP001006,Masculino,Sim,0,Nao Superior,Nao,2583,2358,120,360,1,Urbano,S
+LP001008,Masculino,Nao,0,Superior,Nao,6000,0,141,360,1,Urbano,S
+LP001011,Masculino,Sim,2,Superior,Sim,5417,4196,267,360,1,Urbano,S
+LP001013,Masculino,Sim,0,Nao Superior,Nao,2333,1516,95,360,1,Urbano,S
+LP001014,Masculino,Sim,3+,Superior,Nao,3036,2504,158,360,0,SemiUrbano,N
+LP001018,Masculino,Sim,2,Superior,Nao,4006,1526,168,360,1,Urbano,S
+LP001020,Masculino,Sim,1,Superior,Nao,12841,10968,349,360,1,SemiUrbano,N
+LP001024,Masculino,Sim,2,Superior,Nao,3200,700,70,360,1,Urbano,S
+LP001027,Masculino,Sim,2,Superior,,2500,1840,109,360,1,Urbano,S
+LP001028,Masculino,Sim,2,Superior,Nao,3073,8106,200,360,1,Urbano,S
+LP001029,Masculino,Nao,0,Superior,Nao,1853,2840,114,360,1,Rural,N
+LP001030,Masculino,Sim,2,Superior,Nao,1299,1086,17,120,1,Urbano,S
+LP001032,Masculino,Nao,0,Superior,Nao,4950,0,125,360,1,Urbano,S
+LP001034,Masculino,Nao,1,Nao Superior,Nao,3596,0,100,240,,Urbano,S
+LP001036,Feminino,Nao,0,Superior,Nao,3510,0,76,360,0,Urbano,N
+LP001038,Masculino,Sim,0,Nao Superior,Nao,4887,0,133,360,1,Rural,N
+LP001041,Masculino,Sim,0,Superior,,2600,3500,115,,1,Urbano,S
+LP001043,Masculino,Sim,0,Nao Superior,Nao,7660,0,104,360,0,Urbano,N
+LP001046,Masculino,Sim,1,Superior,Nao,5955,5625,315,360,1,Urbano,S
+LP001047,Masculino,Sim,0,Nao Superior,Nao,2600,1911,116,360,0,SemiUrbano,N
+LP001050,,Sim,2,Nao Superior,Nao,3365,1917,112,360,0,Rural,N
+LP001052,Masculino,Sim,1,Superior,,3717,2925,151,360,,SemiUrbano,N
+LP001066,Masculino,Sim,0,Superior,Sim,9560,0,191,360,1,SemiUrbano,S
+LP001068,Masculino,Sim,0,Superior,Nao,2799,2253,122,360,1,SemiUrbano,S
+LP001073,Masculino,Sim,2,Nao Superior,Nao,4226,1040,110,360,1,Urbano,S
+LP001086,Masculino,Nao,0,Nao Superior,Nao,1442,0,35,360,1,Urbano,N
+LP001087,Feminino,Nao,2,Superior,,3750,2083,120,360,1,SemiUrbano,S
+LP001091,Masculino,Sim,1,Superior,,4166,3369,201,360,,Urbano,N
+LP001095,Masculino,Nao,0,Superior,Nao,3167,0,74,360,1,Urbano,N
+LP001097,Masculino,Nao,1,Superior,Sim,4692,0,106,360,1,Rural,N
+LP001098,Masculino,Sim,0,Superior,Nao,3500,1667,114,360,1,SemiUrbano,S
+LP001100,Masculino,Nao,3+,Superior,Nao,12500,3000,320,360,1,Rural,N
+LP001106,Masculino,Sim,0,Superior,Nao,2275,2067,,360,1,Urbano,S
+LP001109,Masculino,Sim,0,Superior,Nao,1828,1330,100,,0,Urbano,N
+LP001112,Feminino,Sim,0,Superior,Nao,3667,1459,144,360,1,SemiUrbano,S
+LP001114,Masculino,Nao,0,Superior,Nao,4166,7210,184,360,1,Urbano,S
+LP001116,Masculino,Nao,0,Nao Superior,Nao,3748,1668,110,360,1,SemiUrbano,S
+LP001119,Masculino,Nao,0,Superior,Nao,3600,0,80,360,1,Urbano,N
+LP001120,Masculino,Nao,0,Superior,Nao,1800,1213,47,360,1,Urbano,S
+LP001123,Masculino,Sim,0,Superior,Nao,2400,0,75,360,,Urbano,S
+LP001131,Masculino,Sim,0,Superior,Nao,3941,2336,134,360,1,SemiUrbano,S
+LP001136,Masculino,Sim,0,Nao Superior,Sim,4695,0,96,,1,Urbano,S
+LP001137,Feminino,Nao,0,Superior,Nao,3410,0,88,,1,Urbano,S
+LP001138,Masculino,Sim,1,Superior,Nao,5649,0,44,360,1,Urbano,S
+LP001144,Masculino,Sim,0,Superior,Nao,5821,0,144,360,1,Urbano,S
+LP001146,Feminino,Sim,0,Superior,Nao,2645,3440,120,360,0,Urbano,N
+LP001151,Feminino,Nao,0,Superior,Nao,4000,2275,144,360,1,SemiUrbano,S
+LP001155,Feminino,Sim,0,Nao Superior,Nao,1928,1644,100,360,1,SemiUrbano,S
+LP001157,Feminino,Nao,0,Superior,Nao,3086,0,120,360,1,SemiUrbano,S
+LP001164,Feminino,Nao,0,Superior,Nao,4230,0,112,360,1,SemiUrbano,N
+LP001179,Masculino,Sim,2,Superior,Nao,4616,0,134,360,1,Urbano,N
+LP001186,Feminino,Sim,1,Superior,Sim,11500,0,286,360,0,Urbano,N
+LP001194,Masculino,Sim,2,Superior,Nao,2708,1167,97,360,1,SemiUrbano,S
+LP001195,Masculino,Sim,0,Superior,Nao,2132,1591,96,360,1,SemiUrbano,S
+LP001197,Masculino,Sim,0,Superior,Nao,3366,2200,135,360,1,Rural,N
+LP001198,Masculino,Sim,1,Superior,Nao,8080,2250,180,360,1,Urbano,S
+LP001199,Masculino,Sim,2,Nao Superior,Nao,3357,2859,144,360,1,Urbano,S
+LP001205,Masculino,Sim,0,Superior,Nao,2500,3796,120,360,1,Urbano,S
+LP001206,Masculino,Sim,3+,Superior,Nao,3029,0,99,360,1,Urbano,S
+LP001207,Masculino,Sim,0,Nao Superior,Sim,2609,3449,165,180,0,Rural,N
+LP001213,Masculino,Sim,1,Superior,Nao,4945,0,,360,0,Rural,N
+LP001222,Feminino,Nao,0,Superior,Nao,4166,0,116,360,0,SemiUrbano,N
+LP001225,Masculino,Sim,0,Superior,Nao,5726,4595,258,360,1,SemiUrbano,N
+LP001228,Masculino,Nao,0,Nao Superior,Nao,3200,2254,126,180,0,Urbano,N
+LP001233,Masculino,Sim,1,Superior,Nao,10750,0,312,360,1,Urbano,S
+LP001238,Masculino,Sim,3+,Nao Superior,Sim,7100,0,125,60,1,Urbano,S
+LP001241,Feminino,Nao,0,Superior,Nao,4300,0,136,360,0,SemiUrbano,N
+LP001243,Masculino,Sim,0,Superior,Nao,3208,3066,172,360,1,Urbano,S
+LP001245,Masculino,Sim,2,Nao Superior,Sim,1875,1875,97,360,1,SemiUrbano,S
+LP001248,Masculino,Nao,0,Superior,Nao,3500,0,81,300,1,SemiUrbano,S
+LP001250,Masculino,Sim,3+,Nao Superior,Nao,4755,0,95,,0,SemiUrbano,N
+LP001253,Masculino,Sim,3+,Superior,Sim,5266,1774,187,360,1,SemiUrbano,S
+LP001255,Masculino,Nao,0,Superior,Nao,3750,0,113,480,1,Urbano,N
+LP001256,Masculino,Nao,0,Superior,Nao,3750,4750,176,360,1,Urbano,N
+LP001259,Masculino,Sim,1,Superior,Sim,1000,3022,110,360,1,Urbano,N
+LP001263,Masculino,Sim,3+,Superior,Nao,3167,4000,180,300,0,SemiUrbano,N
+LP001264,Masculino,Sim,3+,Nao Superior,Sim,3333,2166,130,360,,SemiUrbano,S
+LP001265,Feminino,Nao,0,Superior,Nao,3846,0,111,360,1,SemiUrbano,S
+LP001266,Masculino,Sim,1,Superior,Sim,2395,0,,360,1,SemiUrbano,S
+LP001267,Feminino,Sim,2,Superior,Nao,1378,1881,167,360,1,Urbano,N
+LP001273,Masculino,Sim,0,Superior,Nao,6000,2250,265,360,,SemiUrbano,N
+LP001275,Masculino,Sim,1,Superior,Nao,3988,0,50,240,1,Urbano,S
+LP001279,Masculino,Nao,0,Superior,Nao,2366,2531,136,360,1,SemiUrbano,S
+LP001280,Masculino,Sim,2,Nao Superior,Nao,3333,2000,99,360,,SemiUrbano,S
+LP001282,Masculino,Sim,0,Superior,Nao,2500,2118,104,360,1,SemiUrbano,S
+LP001289,Masculino,Nao,0,Superior,Nao,8566,0,210,360,1,Urbano,S
+LP001310,Masculino,Sim,0,Superior,Nao,5695,4167,175,360,1,SemiUrbano,S
+LP001316,Masculino,Sim,0,Superior,Nao,2958,2900,131,360,1,SemiUrbano,S
+LP001318,Masculino,Sim,2,Superior,Nao,6250,5654,188,180,1,SemiUrbano,S
+LP001319,Masculino,Sim,2,Nao Superior,Nao,3273,1820,81,360,1,Urbano,S
+LP001322,Masculino,Nao,0,Superior,Nao,4133,0,122,360,1,SemiUrbano,S
+LP001325,Masculino,Nao,0,Nao Superior,Nao,3620,0,25,120,1,SemiUrbano,S
+LP001326,Masculino,Nao,0,Superior,,6782,0,,360,,Urbano,N
+LP001327,Feminino,Sim,0,Superior,Nao,2484,2302,137,360,1,SemiUrbano,S
+LP001333,Masculino,Sim,0,Superior,Nao,1977,997,50,360,1,SemiUrbano,S
+LP001334,Masculino,Sim,0,Nao Superior,Nao,4188,0,115,180,1,SemiUrbano,S
+LP001343,Masculino,Sim,0,Superior,Nao,1759,3541,131,360,1,SemiUrbano,S
+LP001345,Masculino,Sim,2,Nao Superior,Nao,4288,3263,133,180,1,Urbano,S
+LP001349,Masculino,Nao,0,Superior,Nao,4843,3806,151,360,1,SemiUrbano,S
+LP001350,Masculino,Sim,,Superior,Nao,13650,0,,360,1,Urbano,S
+LP001356,Masculino,Sim,0,Superior,Nao,4652,3583,,360,1,SemiUrbano,S
+LP001357,Masculino,,,Superior,Nao,3816,754,160,360,1,Urbano,S
+LP001367,Masculino,Sim,1,Superior,Nao,3052,1030,100,360,1,Urbano,S
+LP001369,Masculino,Sim,2,Superior,Nao,11417,1126,225,360,1,Urbano,S
+LP001370,Masculino,Nao,0,Nao Superior,,7333,0,120,360,1,Rural,N
+LP001379,Masculino,Sim,2,Superior,Nao,3800,3600,216,360,0,Urbano,N
+LP001384,Masculino,Sim,3+,Nao Superior,Nao,2071,754,94,480,1,SemiUrbano,S
+LP001385,Masculino,Nao,0,Superior,Nao,5316,0,136,360,1,Urbano,S
+LP001387,Feminino,Sim,0,Superior,,2929,2333,139,360,1,SemiUrbano,S
+LP001391,Masculino,Sim,0,Nao Superior,Nao,3572,4114,152,,0,Rural,N
+LP001392,Feminino,Nao,1,Superior,Sim,7451,0,,360,1,SemiUrbano,S
+LP001398,Masculino,Nao,0,Superior,,5050,0,118,360,1,SemiUrbano,S
+LP001401,Masculino,Sim,1,Superior,Nao,14583,0,185,180,1,Rural,S
+LP001404,Feminino,Sim,0,Superior,Nao,3167,2283,154,360,1,SemiUrbano,S
+LP001405,Masculino,Sim,1,Superior,Nao,2214,1398,85,360,,Urbano,S
+LP001421,Masculino,Sim,0,Superior,Nao,5568,2142,175,360,1,Rural,N
+LP001422,Feminino,Nao,0,Superior,Nao,10408,0,259,360,1,Urbano,S
+LP001426,Masculino,Sim,,Superior,Nao,5667,2667,180,360,1,Rural,S
+LP001430,Feminino,Nao,0,Superior,Nao,4166,0,44,360,1,SemiUrbano,S
+LP001431,Feminino,Nao,0,Superior,Nao,2137,8980,137,360,0,SemiUrbano,S
+LP001432,Masculino,Sim,2,Superior,Nao,2957,0,81,360,1,SemiUrbano,S
+LP001439,Masculino,Sim,0,Nao Superior,Nao,4300,2014,194,360,1,Rural,S
+LP001443,Feminino,Nao,0,Superior,Nao,3692,0,93,360,,Rural,S
+LP001448,,Sim,3+,Superior,Nao,23803,0,370,360,1,Rural,S
+LP001449,Masculino,Nao,0,Superior,Nao,3865,1640,,360,1,Rural,S
+LP001451,Masculino,Sim,1,Superior,Sim,10513,3850,160,180,0,Urbano,N
+LP001465,Masculino,Sim,0,Superior,Nao,6080,2569,182,360,,Rural,N
+LP001469,Masculino,Nao,0,Superior,Sim,20166,0,650,480,,Urbano,S
+LP001473,Masculino,Nao,0,Superior,Nao,2014,1929,74,360,1,Urbano,S
+LP001478,Masculino,Nao,0,Superior,Nao,2718,0,70,360,1,SemiUrbano,S
+LP001482,Masculino,Sim,0,Superior,Sim,3459,0,25,120,1,SemiUrbano,S
+LP001487,Masculino,Nao,0,Superior,Nao,4895,0,102,360,1,SemiUrbano,S
+LP001488,Masculino,Sim,3+,Superior,Nao,4000,7750,290,360,1,SemiUrbano,N
+LP001489,Feminino,Sim,0,Superior,Nao,4583,0,84,360,1,Rural,N
+LP001491,Masculino,Sim,2,Superior,Sim,3316,3500,88,360,1,Urbano,S
+LP001492,Masculino,Nao,0,Superior,Nao,14999,0,242,360,0,SemiUrbano,N
+LP001493,Masculino,Sim,2,Nao Superior,Nao,4200,1430,129,360,1,Rural,N
+LP001497,Masculino,Sim,2,Superior,Nao,5042,2083,185,360,1,Rural,N
+LP001498,Masculino,Nao,0,Superior,Nao,5417,0,168,360,1,Urbano,S
+LP001504,Masculino,Nao,0,Superior,Sim,6950,0,175,180,1,SemiUrbano,S
+LP001507,Masculino,Sim,0,Superior,Nao,2698,2034,122,360,1,SemiUrbano,S
+LP001508,Masculino,Sim,2,Superior,Nao,11757,0,187,180,1,Urbano,S
+LP001514,Feminino,Sim,0,Superior,Nao,2330,4486,100,360,1,SemiUrbano,S
+LP001516,Feminino,Sim,2,Superior,Nao,14866,0,70,360,1,Urbano,S
+LP001518,Masculino,Sim,1,Superior,Nao,1538,1425,30,360,1,Urbano,S
+LP001519,Feminino,Nao,0,Superior,Nao,10000,1666,225,360,1,Rural,N
+LP001520,Masculino,Sim,0,Superior,Nao,4860,830,125,360,1,SemiUrbano,S
+LP001528,Masculino,Nao,0,Superior,Nao,6277,0,118,360,0,Rural,N
+LP001529,Masculino,Sim,0,Superior,Sim,2577,3750,152,360,1,Rural,S
+LP001531,Masculino,Nao,0,Superior,Nao,9166,0,244,360,1,Urbano,N
+LP001532,Masculino,Sim,2,Nao Superior,Nao,2281,0,113,360,1,Rural,N
+LP001535,Masculino,Nao,0,Superior,Nao,3254,0,50,360,1,Urbano,S
+LP001536,Masculino,Sim,3+,Superior,Nao,39999,0,600,180,0,SemiUrbano,S
+LP001541,Masculino,Sim,1,Superior,Nao,6000,0,160,360,,Rural,S
+LP001543,Masculino,Sim,1,Superior,Nao,9538,0,187,360,1,Urbano,S
+LP001546,Masculino,Nao,0,Superior,,2980,2083,120,360,1,Rural,S
+LP001552,Masculino,Sim,0,Superior,Nao,4583,5625,255,360,1,SemiUrbano,S
+LP001560,Masculino,Sim,0,Nao Superior,Nao,1863,1041,98,360,1,SemiUrbano,S
+LP001562,Masculino,Sim,0,Superior,Nao,7933,0,275,360,1,Urbano,N
+LP001565,Masculino,Sim,1,Superior,Nao,3089,1280,121,360,0,SemiUrbano,N
+LP001570,Masculino,Sim,2,Superior,Nao,4167,1447,158,360,1,Rural,S
+LP001572,Masculino,Sim,0,Superior,Nao,9323,0,75,180,1,Urbano,S
+LP001574,Masculino,Sim,0,Superior,Nao,3707,3166,182,,1,Rural,S
+LP001577,Feminino,Sim,0,Superior,Nao,4583,0,112,360,1,Rural,N
+LP001578,Masculino,Sim,0,Superior,Nao,2439,3333,129,360,1,Rural,S
+LP001579,Masculino,Nao,0,Superior,Nao,2237,0,63,480,0,SemiUrbano,N
+LP001580,Masculino,Sim,2,Superior,Nao,8000,0,200,360,1,SemiUrbano,S
+LP001581,Masculino,Sim,0,Nao Superior,,1820,1769,95,360,1,Rural,S
+LP001585,,Sim,3+,Superior,Nao,51763,0,700,300,1,Urbano,S
+LP001586,Masculino,Sim,3+,Nao Superior,Nao,3522,0,81,180,1,Rural,N
+LP001594,Masculino,Sim,0,Superior,Nao,5708,5625,187,360,1,SemiUrbano,S
+LP001603,Masculino,Sim,0,Nao Superior,Sim,4344,736,87,360,1,SemiUrbano,N
+LP001606,Masculino,Sim,0,Superior,Nao,3497,1964,116,360,1,Rural,S
+LP001608,Masculino,Sim,2,Superior,Nao,2045,1619,101,360,1,Rural,S
+LP001610,Masculino,Sim,3+,Superior,Nao,5516,11300,495,360,0,SemiUrbano,N
+LP001616,Masculino,Sim,1,Superior,Nao,3750,0,116,360,1,SemiUrbano,S
+LP001630,Masculino,Nao,0,Nao Superior,Nao,2333,1451,102,480,0,Urbano,N
+LP001633,Masculino,Sim,1,Superior,Nao,6400,7250,180,360,0,Urbano,N
+LP001634,Masculino,Nao,0,Superior,Nao,1916,5063,67,360,,Rural,N
+LP001636,Masculino,Sim,0,Superior,Nao,4600,0,73,180,1,SemiUrbano,S
+LP001637,Masculino,Sim,1,Superior,Nao,33846,0,260,360,1,SemiUrbano,N
+LP001639,Feminino,Sim,0,Superior,Nao,3625,0,108,360,1,SemiUrbano,S
+LP001640,Masculino,Sim,0,Superior,Sim,39147,4750,120,360,1,SemiUrbano,S
+LP001641,Masculino,Sim,1,Superior,Sim,2178,0,66,300,0,Rural,N
+LP001643,Masculino,Sim,0,Superior,Nao,2383,2138,58,360,,Rural,S
+LP001644,,Sim,0,Superior,Sim,674,5296,168,360,1,Rural,S
+LP001647,Masculino,Sim,0,Superior,Nao,9328,0,188,180,1,Rural,S
+LP001653,Masculino,Nao,0,Nao Superior,Nao,4885,0,48,360,1,Rural,S
+LP001656,Masculino,Nao,0,Superior,Nao,12000,0,164,360,1,SemiUrbano,N
+LP001657,Masculino,Sim,0,Nao Superior,Nao,6033,0,160,360,1,Urbano,N
+LP001658,Masculino,Nao,0,Superior,Nao,3858,0,76,360,1,SemiUrbano,S
+LP001664,Masculino,Nao,0,Superior,Nao,4191,0,120,360,1,Rural,S
+LP001665,Masculino,Sim,1,Superior,Nao,3125,2583,170,360,1,SemiUrbano,N
+LP001666,Masculino,Nao,0,Superior,Nao,8333,3750,187,360,1,Rural,S
+LP001669,Feminino,Nao,0,Nao Superior,Nao,1907,2365,120,,1,Urbano,S
+LP001671,Feminino,Sim,0,Superior,Nao,3416,2816,113,360,,SemiUrbano,S
+LP001673,Masculino,Nao,0,Superior,Sim,11000,0,83,360,1,Urbano,N
+LP001674,Masculino,Sim,1,Nao Superior,Nao,2600,2500,90,360,1,SemiUrbano,S
+LP001677,Masculino,Nao,2,Superior,Nao,4923,0,166,360,0,SemiUrbano,S
+LP001682,Masculino,Sim,3+,Nao Superior,Nao,3992,0,,180,1,Urbano,N
+LP001688,Masculino,Sim,1,Nao Superior,Nao,3500,1083,135,360,1,Urbano,S
+LP001691,Masculino,Sim,2,Nao Superior,Nao,3917,0,124,360,1,SemiUrbano,S
+LP001692,Feminino,Nao,0,Nao Superior,Nao,4408,0,120,360,1,SemiUrbano,S
+LP001693,Feminino,Nao,0,Superior,Nao,3244,0,80,360,1,Urbano,S
+LP001698,Masculino,Nao,0,Nao Superior,Nao,3975,2531,55,360,1,Rural,S
+LP001699,Masculino,Nao,0,Superior,Nao,2479,0,59,360,1,Urbano,S
+LP001702,Masculino,Nao,0,Superior,Nao,3418,0,127,360,1,SemiUrbano,N
+LP001708,Feminino,Nao,0,Superior,Nao,10000,0,214,360,1,SemiUrbano,N
+LP001711,Masculino,Sim,3+,Superior,Nao,3430,1250,128,360,0,SemiUrbano,N
+LP001713,Masculino,Sim,1,Superior,Sim,7787,0,240,360,1,Urbano,S
+LP001715,Masculino,Sim,3+,Nao Superior,Sim,5703,0,130,360,1,Rural,S
+LP001716,Masculino,Sim,0,Superior,Nao,3173,3021,137,360,1,Urbano,S
+LP001720,Masculino,Sim,3+,Nao Superior,Nao,3850,983,100,360,1,SemiUrbano,S
+LP001722,Masculino,Sim,0,Superior,Nao,150,1800,135,360,1,Rural,N
+LP001726,Masculino,Sim,0,Superior,Nao,3727,1775,131,360,1,SemiUrbano,S
+LP001732,Masculino,Sim,2,Superior,,5000,0,72,360,0,SemiUrbano,N
+LP001734,Feminino,Sim,2,Superior,Nao,4283,2383,127,360,,SemiUrbano,S
+LP001736,Masculino,Sim,0,Superior,Nao,2221,0,60,360,0,Urbano,N
+LP001743,Masculino,Sim,2,Superior,Nao,4009,1717,116,360,1,SemiUrbano,S
+LP001744,Masculino,Nao,0,Superior,Nao,2971,2791,144,360,1,SemiUrbano,S
+LP001749,Masculino,Sim,0,Superior,Nao,7578,1010,175,,1,SemiUrbano,S
+LP001750,Masculino,Sim,0,Superior,Nao,6250,0,128,360,1,SemiUrbano,S
+LP001751,Masculino,Sim,0,Superior,Nao,3250,0,170,360,1,Rural,N
+LP001754,Masculino,Sim,,Nao Superior,Sim,4735,0,138,360,1,Urbano,N
+LP001758,Masculino,Sim,2,Superior,Nao,6250,1695,210,360,1,SemiUrbano,S
+LP001760,Masculino,,,Superior,Nao,4758,0,158,480,1,SemiUrbano,S
+LP001761,Masculino,Nao,0,Superior,Sim,6400,0,200,360,1,Rural,S
+LP001765,Masculino,Sim,1,Superior,Nao,2491,2054,104,360,1,SemiUrbano,S
+LP001768,Masculino,Sim,0,Superior,,3716,0,42,180,1,Rural,S
+LP001770,Masculino,Nao,0,Nao Superior,Nao,3189,2598,120,,1,Rural,S
+LP001776,Feminino,Nao,0,Superior,Nao,8333,0,280,360,1,SemiUrbano,S
+LP001778,Masculino,Sim,1,Superior,Nao,3155,1779,140,360,1,SemiUrbano,S
+LP001784,Masculino,Sim,1,Superior,Nao,5500,1260,170,360,1,Rural,S
+LP001786,Masculino,Sim,0,Superior,,5746,0,255,360,,Urbano,N
+LP001788,Feminino,Nao,0,Superior,Sim,3463,0,122,360,,Urbano,S
+LP001790,Feminino,Nao,1,Superior,Nao,3812,0,112,360,1,Rural,S
+LP001792,Masculino,Sim,1,Superior,Nao,3315,0,96,360,1,SemiUrbano,S
+LP001798,Masculino,Sim,2,Superior,Nao,5819,5000,120,360,1,Rural,S
+LP001800,Masculino,Sim,1,Nao Superior,Nao,2510,1983,140,180,1,Urbano,N
+LP001806,Masculino,Nao,0,Superior,Nao,2965,5701,155,60,1,Urbano,S
+LP001807,Masculino,Sim,2,Superior,Sim,6250,1300,108,360,1,Rural,S
+LP001811,Masculino,Sim,0,Nao Superior,Nao,3406,4417,123,360,1,SemiUrbano,S
+LP001813,Masculino,Nao,0,Superior,Sim,6050,4333,120,180,1,Urbano,N
+LP001814,Masculino,Sim,2,Superior,Nao,9703,0,112,360,1,Urbano,S
+LP001819,Masculino,Sim,1,Nao Superior,Nao,6608,0,137,180,1,Urbano,S
+LP001824,Masculino,Sim,1,Superior,Nao,2882,1843,123,480,1,SemiUrbano,S
+LP001825,Masculino,Sim,0,Superior,Nao,1809,1868,90,360,1,Urbano,S
+LP001835,Masculino,Sim,0,Nao Superior,Nao,1668,3890,201,360,0,SemiUrbano,N
+LP001836,Feminino,Nao,2,Superior,Nao,3427,0,138,360,1,Urbano,N
+LP001841,Masculino,Nao,0,Nao Superior,Sim,2583,2167,104,360,1,Rural,S
+LP001843,Masculino,Sim,1,Nao Superior,Nao,2661,7101,279,180,1,SemiUrbano,S
+LP001844,Masculino,Nao,0,Superior,Sim,16250,0,192,360,0,Urbano,N
+LP001846,Feminino,Nao,3+,Superior,Nao,3083,0,255,360,1,Rural,S
+LP001849,Masculino,Nao,0,Nao Superior,Nao,6045,0,115,360,0,Rural,N
+LP001854,Masculino,Sim,3+,Superior,Nao,5250,0,94,360,1,Urbano,N
+LP001859,Masculino,Sim,0,Superior,Nao,14683,2100,304,360,1,Rural,N
+LP001864,Masculino,Sim,3+,Nao Superior,Nao,4931,0,128,360,,SemiUrbano,N
+LP001865,Masculino,Sim,1,Superior,Nao,6083,4250,330,360,,Urbano,S
+LP001868,Masculino,Nao,0,Superior,Nao,2060,2209,134,360,1,SemiUrbano,S
+LP001870,Feminino,Nao,1,Superior,Nao,3481,0,155,36,1,SemiUrbano,N
+LP001871,Feminino,Nao,0,Superior,Nao,7200,0,120,360,1,Rural,S
+LP001872,Masculino,Nao,0,Superior,Sim,5166,0,128,360,1,SemiUrbano,S
+LP001875,Masculino,Nao,0,Superior,Nao,4095,3447,151,360,1,Rural,S
+LP001877,Masculino,Sim,2,Superior,Nao,4708,1387,150,360,1,SemiUrbano,S
+LP001882,Masculino,Sim,3+,Superior,Nao,4333,1811,160,360,0,Urbano,S
+LP001883,Feminino,Nao,0,Superior,,3418,0,135,360,1,Rural,N
+LP001884,Feminino,Nao,1,Superior,Nao,2876,1560,90,360,1,Urbano,S
+LP001888,Feminino,Nao,0,Superior,Nao,3237,0,30,360,1,Urbano,S
+LP001891,Masculino,Sim,0,Superior,Nao,11146,0,136,360,1,Urbano,S
+LP001892,Masculino,Nao,0,Superior,Nao,2833,1857,126,360,1,Rural,S
+LP001894,Masculino,Sim,0,Superior,Nao,2620,2223,150,360,1,SemiUrbano,S
+LP001896,Masculino,Sim,2,Superior,Nao,3900,0,90,360,1,SemiUrbano,S
+LP001900,Masculino,Sim,1,Superior,Nao,2750,1842,115,360,1,SemiUrbano,S
+LP001903,Masculino,Sim,0,Superior,Nao,3993,3274,207,360,1,SemiUrbano,S
+LP001904,Masculino,Sim,0,Superior,Nao,3103,1300,80,360,1,Urbano,S
+LP001907,Masculino,Sim,0,Superior,Nao,14583,0,436,360,1,SemiUrbano,S
+LP001908,Feminino,Sim,0,Nao Superior,Nao,4100,0,124,360,,Rural,S
+LP001910,Masculino,Nao,1,Nao Superior,Sim,4053,2426,158,360,0,Urbano,N
+LP001914,Masculino,Sim,0,Superior,Nao,3927,800,112,360,1,SemiUrbano,S
+LP001915,Masculino,Sim,2,Superior,Nao,2301,985.7999878,78,180,1,Urbano,S
+LP001917,Feminino,Nao,0,Superior,Nao,1811,1666,54,360,1,Urbano,S
+LP001922,Masculino,Sim,0,Superior,Nao,20667,0,,360,1,Rural,N
+LP001924,Masculino,Nao,0,Superior,Nao,3158,3053,89,360,1,Rural,S
+LP001925,Feminino,Nao,0,Superior,Sim,2600,1717,99,300,1,SemiUrbano,N
+LP001926,Masculino,Sim,0,Superior,Nao,3704,2000,120,360,1,Rural,S
+LP001931,Feminino,Nao,0,Superior,Nao,4124,0,115,360,1,SemiUrbano,S
+LP001935,Masculino,Nao,0,Superior,Nao,9508,0,187,360,1,Rural,S
+LP001936,Masculino,Sim,0,Superior,Nao,3075,2416,139,360,1,Rural,S
+LP001938,Masculino,Sim,2,Superior,Nao,4400,0,127,360,0,SemiUrbano,N
+LP001940,Masculino,Sim,2,Superior,Nao,3153,1560,134,360,1,Urbano,S
+LP001945,Feminino,Nao,,Superior,Nao,5417,0,143,480,0,Urbano,N
+LP001947,Masculino,Sim,0,Superior,Nao,2383,3334,172,360,1,SemiUrbano,S
+LP001949,Masculino,Sim,3+,Superior,,4416,1250,110,360,1,Urbano,S
+LP001953,Masculino,Sim,1,Superior,Nao,6875,0,200,360,1,SemiUrbano,S
+LP001954,Feminino,Sim,1,Superior,Nao,4666,0,135,360,1,Urbano,S
+LP001955,Feminino,Nao,0,Superior,Nao,5000,2541,151,480,1,Rural,N
+LP001963,Masculino,Sim,1,Superior,Nao,2014,2925,113,360,1,Urbano,N
+LP001964,Masculino,Sim,0,Nao Superior,Nao,1800,2934,93,360,0,Urbano,N
+LP001972,Masculino,Sim,,Nao Superior,Nao,2875,1750,105,360,1,SemiUrbano,S
+LP001974,Feminino,Nao,0,Superior,Nao,5000,0,132,360,1,Rural,S
+LP001977,Masculino,Sim,1,Superior,Nao,1625,1803,96,360,1,Urbano,S
+LP001978,Masculino,Nao,0,Superior,Nao,4000,2500,140,360,1,Rural,S
+LP001990,Masculino,Nao,0,Nao Superior,Nao,2000,0,,360,1,Urbano,N
+LP001993,Feminino,Nao,0,Superior,Nao,3762,1666,135,360,1,Rural,S
+LP001994,Feminino,Nao,0,Superior,Nao,2400,1863,104,360,0,Urbano,N
+LP001996,Masculino,Nao,0,Superior,Nao,20233,0,480,360,1,Rural,N
+LP001998,Masculino,Sim,2,Nao Superior,Nao,7667,0,185,360,,Rural,S
+LP002002,Feminino,Nao,0,Superior,Nao,2917,0,84,360,1,SemiUrbano,S
+LP002004,Masculino,Nao,0,Nao Superior,Nao,2927,2405,111,360,1,SemiUrbano,S
+LP002006,Feminino,Nao,0,Superior,Nao,2507,0,56,360,1,Rural,S
+LP002008,Masculino,Sim,2,Superior,Sim,5746,0,144,84,,Rural,S
+LP002024,,Sim,0,Superior,Nao,2473,1843,159,360,1,Rural,N
+LP002031,Masculino,Sim,1,Nao Superior,Nao,3399,1640,111,180,1,Urbano,S
+LP002035,Masculino,Sim,2,Superior,Nao,3717,0,120,360,1,SemiUrbano,S
+LP002036,Masculino,Sim,0,Superior,Nao,2058,2134,88,360,,Urbano,S
+LP002043,Feminino,Nao,1,Superior,Nao,3541,0,112,360,,SemiUrbano,S
+LP002050,Masculino,Sim,1,Superior,Sim,10000,0,155,360,1,Rural,N
+LP002051,Masculino,Sim,0,Superior,Nao,2400,2167,115,360,1,SemiUrbano,S
+LP002053,Masculino,Sim,3+,Superior,Nao,4342,189,124,360,1,SemiUrbano,S
+LP002054,Masculino,Sim,2,Nao Superior,Nao,3601,1590,,360,1,Rural,S
+LP002055,Feminino,Nao,0,Superior,Nao,3166,2985,132,360,,Rural,S
+LP002065,Masculino,Sim,3+,Superior,Nao,15000,0,300,360,1,Rural,S
+LP002067,Masculino,Sim,1,Superior,Sim,8666,4983,376,360,0,Rural,N
+LP002068,Masculino,Nao,0,Superior,Nao,4917,0,130,360,0,Rural,S
+LP002082,Masculino,Sim,0,Superior,Sim,5818,2160,184,360,1,SemiUrbano,S
+LP002086,Feminino,Sim,0,Superior,Nao,4333,2451,110,360,1,Urbano,N
+LP002087,Feminino,Nao,0,Superior,Nao,2500,0,67,360,1,Urbano,S
+LP002097,Masculino,Nao,1,Superior,Nao,4384,1793,117,360,1,Urbano,S
+LP002098,Masculino,Nao,0,Superior,Nao,2935,0,98,360,1,SemiUrbano,S
+LP002100,Masculino,Nao,,Superior,Nao,2833,0,71,360,1,Urbano,S
+LP002101,Masculino,Sim,0,Superior,,63337,0,490,180,1,Urbano,S
+LP002103,,Sim,1,Superior,Sim,9833,1833,182,180,1,Urbano,S
+LP002106,Masculino,Sim,,Superior,Sim,5503,4490,70,,1,SemiUrbano,S
+LP002110,Masculino,Sim,1,Superior,,5250,688,160,360,1,Rural,S
+LP002112,Masculino,Sim,2,Superior,Sim,2500,4600,176,360,1,Rural,S
+LP002113,Feminino,Nao,3+,Nao Superior,Nao,1830,0,,360,0,Urbano,N
+LP002114,Feminino,Nao,0,Superior,Nao,4160,0,71,360,1,SemiUrbano,S
+LP002115,Masculino,Sim,3+,Nao Superior,Nao,2647,1587,173,360,1,Rural,N
+LP002116,Feminino,Nao,0,Superior,Nao,2378,0,46,360,1,Rural,N
+LP002119,Masculino,Sim,1,Nao Superior,Nao,4554,1229,158,360,1,Urbano,S
+LP002126,Masculino,Sim,3+,Nao Superior,Nao,3173,0,74,360,1,SemiUrbano,S
+LP002128,Masculino,Sim,2,Superior,,2583,2330,125,360,1,Rural,S
+LP002129,Masculino,Sim,0,Superior,Nao,2499,2458,160,360,1,SemiUrbano,S
+LP002130,Masculino,Sim,,Nao Superior,Nao,3523,3230,152,360,0,Rural,N
+LP002131,Masculino,Sim,2,Nao Superior,Nao,3083,2168,126,360,1,Urbano,S
+LP002137,Masculino,Sim,0,Superior,Nao,6333,4583,259,360,,SemiUrbano,S
+LP002138,Masculino,Sim,0,Superior,Nao,2625,6250,187,360,1,Rural,S
+LP002139,Masculino,Sim,0,Superior,Nao,9083,0,228,360,1,SemiUrbano,S
+LP002140,Masculino,Nao,0,Superior,Nao,8750,4167,308,360,1,Rural,N
+LP002141,Masculino,Sim,3+,Superior,Nao,2666,2083,95,360,1,Rural,S
+LP002142,Feminino,Sim,0,Superior,Sim,5500,0,105,360,0,Rural,N
+LP002143,Feminino,Sim,0,Superior,Nao,2423,505,130,360,1,SemiUrbano,S
+LP002144,Feminino,Nao,,Superior,Nao,3813,0,116,180,1,Urbano,S
+LP002149,Masculino,Sim,2,Superior,Nao,8333,3167,165,360,1,Rural,S
+LP002151,Masculino,Sim,1,Superior,Nao,3875,0,67,360,1,Urbano,N
+LP002158,Masculino,Sim,0,Nao Superior,Nao,3000,1666,100,480,0,Urbano,N
+LP002160,Masculino,Sim,3+,Superior,Nao,5167,3167,200,360,1,SemiUrbano,S
+LP002161,Feminino,Nao,1,Superior,Nao,4723,0,81,360,1,SemiUrbano,N
+LP002170,Masculino,Sim,2,Superior,Nao,5000,3667,236,360,1,SemiUrbano,S
+LP002175,Masculino,Sim,0,Superior,Nao,4750,2333,130,360,1,Urbano,S
+LP002178,Masculino,Sim,0,Superior,Nao,3013,3033,95,300,,Urbano,S
+LP002180,Masculino,Nao,0,Superior,Sim,6822,0,141,360,1,Rural,S
+LP002181,Masculino,Nao,0,Nao Superior,Nao,6216,0,133,360,1,Rural,N
+LP002187,Masculino,Nao,0,Superior,Nao,2500,0,96,480,1,SemiUrbano,N
+LP002188,Masculino,Nao,0,Superior,Nao,5124,0,124,,0,Rural,N
+LP002190,Masculino,Sim,1,Superior,Nao,6325,0,175,360,1,SemiUrbano,S
+LP002191,Masculino,Sim,0,Superior,Nao,19730,5266,570,360,1,Rural,N
+LP002194,Feminino,Nao,0,Superior,Sim,15759,0,55,360,1,SemiUrbano,S
+LP002197,Masculino,Sim,2,Superior,Nao,5185,0,155,360,1,SemiUrbano,S
+LP002201,Masculino,Sim,2,Superior,Sim,9323,7873,380,300,1,Rural,S
+LP002205,Masculino,Nao,1,Superior,Nao,3062,1987,111,180,0,Urbano,N
+LP002209,Feminino,Nao,0,Superior,,2764,1459,110,360,1,Urbano,S
+LP002211,Masculino,Sim,0,Superior,Nao,4817,923,120,180,1,Urbano,S
+LP002219,Masculino,Sim,3+,Superior,Nao,8750,4996,130,360,1,Rural,S
+LP002223,Masculino,Sim,0,Superior,Nao,4310,0,130,360,,SemiUrbano,S
+LP002224,Masculino,Nao,0,Superior,Nao,3069,0,71,480,1,Urbano,N
+LP002225,Masculino,Sim,2,Superior,Nao,5391,0,130,360,1,Urbano,S
+LP002226,Masculino,Sim,0,Superior,,3333,2500,128,360,1,SemiUrbano,S
+LP002229,Masculino,Nao,0,Superior,Nao,5941,4232,296,360,1,SemiUrbano,S
+LP002231,Feminino,Nao,0,Superior,Nao,6000,0,156,360,1,Urbano,S
+LP002234,Masculino,Nao,0,Superior,Sim,7167,0,128,360,1,Urbano,S
+LP002236,Masculino,Sim,2,Superior,Nao,4566,0,100,360,1,Urbano,N
+LP002237,Masculino,Nao,1,Superior,,3667,0,113,180,1,Urbano,S
+LP002239,Masculino,Nao,0,Nao Superior,Nao,2346,1600,132,360,1,SemiUrbano,S
+LP002243,Masculino,Sim,0,Nao Superior,Nao,3010,3136,,360,0,Urbano,N
+LP002244,Masculino,Sim,0,Superior,Nao,2333,2417,136,360,1,Urbano,S
+LP002250,Masculino,Sim,0,Superior,Nao,5488,0,125,360,1,Rural,S
+LP002255,Masculino,Nao,3+,Superior,Nao,9167,0,185,360,1,Rural,S
+LP002262,Masculino,Sim,3+,Superior,Nao,9504,0,275,360,1,Rural,S
+LP002263,Masculino,Sim,0,Superior,Nao,2583,2115,120,360,,Urbano,S
+LP002265,Masculino,Sim,2,Nao Superior,Nao,1993,1625,113,180,1,SemiUrbano,S
+LP002266,Masculino,Sim,2,Superior,Nao,3100,1400,113,360,1,Urbano,S
+LP002272,Masculino,Sim,2,Superior,Nao,3276,484,135,360,,SemiUrbano,S
+LP002277,Feminino,Nao,0,Superior,Nao,3180,0,71,360,0,Urbano,N
+LP002281,Masculino,Sim,0,Superior,Nao,3033,1459,95,360,1,Urbano,S
+LP002284,Masculino,Nao,0,Nao Superior,Nao,3902,1666,109,360,1,Rural,S
+LP002287,Feminino,Nao,0,Superior,Nao,1500,1800,103,360,0,SemiUrbano,N
+LP002288,Masculino,Sim,2,Nao Superior,Nao,2889,0,45,180,0,Urbano,N
+LP002296,Masculino,Nao,0,Nao Superior,Nao,2755,0,65,300,1,Rural,N
+LP002297,Masculino,Nao,0,Superior,Nao,2500,20000,103,360,1,SemiUrbano,S
+LP002300,Feminino,Nao,0,Nao Superior,Nao,1963,0,53,360,1,SemiUrbano,S
+LP002301,Feminino,Nao,0,Superior,Sim,7441,0,194,360,1,Rural,N
+LP002305,Feminino,Nao,0,Superior,Nao,4547,0,115,360,1,SemiUrbano,S
+LP002308,Masculino,Sim,0,Nao Superior,Nao,2167,2400,115,360,1,Urbano,S
+LP002314,Feminino,Nao,0,Nao Superior,Nao,2213,0,66,360,1,Rural,S
+LP002315,Masculino,Sim,1,Superior,Nao,8300,0,152,300,0,SemiUrbano,N
+LP002317,Masculino,Sim,3+,Superior,Nao,81000,0,360,360,0,Rural,N
+LP002318,Feminino,Nao,1,Nao Superior,Sim,3867,0,62,360,1,SemiUrbano,N
+LP002319,Masculino,Sim,0,Superior,,6256,0,160,360,,Urbano,S
+LP002328,Masculino,Sim,0,Nao Superior,Nao,6096,0,218,360,0,Rural,N
+LP002332,Masculino,Sim,0,Nao Superior,Nao,2253,2033,110,360,1,Rural,S
+LP002335,Feminino,Sim,0,Nao Superior,Nao,2149,3237,178,360,0,SemiUrbano,N
+LP002337,Feminino,Nao,0,Superior,Nao,2995,0,60,360,1,Urbano,S
+LP002341,Feminino,Nao,1,Superior,Nao,2600,0,160,360,1,Urbano,N
+LP002342,Masculino,Sim,2,Superior,Sim,1600,20000,239,360,1,Urbano,N
+LP002345,Masculino,Sim,0,Superior,Nao,1025,2773,112,360,1,Rural,S
+LP002347,Masculino,Sim,0,Superior,Nao,3246,1417,138,360,1,SemiUrbano,S
+LP002348,Masculino,Sim,0,Superior,Nao,5829,0,138,360,1,Rural,S
+LP002357,Feminino,Nao,0,Nao Superior,Nao,2720,0,80,,0,Urbano,N
+LP002361,Masculino,Sim,0,Superior,Nao,1820,1719,100,360,1,Urbano,S
+LP002362,Masculino,Sim,1,Superior,Nao,7250,1667,110,,0,Urbano,N
+LP002364,Masculino,Sim,0,Superior,Nao,14880,0,96,360,1,SemiUrbano,S
+LP002366,Masculino,Sim,0,Superior,Nao,2666,4300,121,360,1,Rural,S
+LP002367,Feminino,Nao,1,Nao Superior,Nao,4606,0,81,360,1,Rural,N
+LP002368,Masculino,Sim,2,Superior,Nao,5935,0,133,360,1,SemiUrbano,S
+LP002369,Masculino,Sim,0,Superior,Nao,2920,16.12000084,87,360,1,Rural,S
+LP002370,Masculino,Nao,0,Nao Superior,Nao,2717,0,60,180,1,Urbano,S
+LP002377,Feminino,Nao,1,Superior,Sim,8624,0,150,360,1,SemiUrbano,S
+LP002379,Masculino,Nao,0,Superior,Nao,6500,0,105,360,0,Rural,N
+LP002386,Masculino,Nao,0,Superior,,12876,0,405,360,1,SemiUrbano,S
+LP002387,Masculino,Sim,0,Superior,Nao,2425,2340,143,360,1,SemiUrbano,S
+LP002390,Masculino,Nao,0,Superior,Nao,3750,0,100,360,1,Urbano,S
+LP002393,Feminino,,,Superior,Nao,10047,0,,240,1,SemiUrbano,S
+LP002398,Masculino,Nao,0,Superior,Nao,1926,1851,50,360,1,SemiUrbano,S
+LP002401,Masculino,Sim,0,Superior,Nao,2213,1125,,360,1,Urbano,S
+LP002403,Masculino,Nao,0,Superior,Sim,10416,0,187,360,0,Urbano,N
+LP002407,Feminino,Sim,0,Nao Superior,Sim,7142,0,138,360,1,Rural,S
+LP002408,Masculino,Nao,0,Superior,Nao,3660,5064,187,360,1,SemiUrbano,S
+LP002409,Masculino,Sim,0,Superior,Nao,7901,1833,180,360,1,Rural,S
+LP002418,Masculino,Nao,3+,Nao Superior,Nao,4707,1993,148,360,1,SemiUrbano,S
+LP002422,Masculino,Nao,1,Superior,Nao,37719,0,152,360,1,SemiUrbano,S
+LP002424,Masculino,Sim,0,Superior,Nao,7333,8333,175,300,,Rural,S
+LP002429,Masculino,Sim,1,Superior,Sim,3466,1210,130,360,1,Rural,S
+LP002434,Masculino,Sim,2,Nao Superior,Nao,4652,0,110,360,1,Rural,S
+LP002435,Masculino,Sim,0,Superior,,3539,1376,55,360,1,Rural,N
+LP002443,Masculino,Sim,2,Superior,Nao,3340,1710,150,360,0,Rural,N
+LP002444,Masculino,Nao,1,Nao Superior,Sim,2769,1542,190,360,,SemiUrbano,N
+LP002446,Masculino,Sim,2,Nao Superior,Nao,2309,1255,125,360,0,Rural,N
+LP002447,Masculino,Sim,2,Nao Superior,Nao,1958,1456,60,300,,Urbano,S
+LP002448,Masculino,Sim,0,Superior,Nao,3948,1733,149,360,0,Rural,N
+LP002449,Masculino,Sim,0,Superior,Nao,2483,2466,90,180,0,Rural,S
+LP002453,Masculino,Nao,0,Superior,Sim,7085,0,84,360,1,SemiUrbano,S
+LP002455,Masculino,Sim,2,Superior,Nao,3859,0,96,360,1,SemiUrbano,S
+LP002459,Masculino,Sim,0,Superior,Nao,4301,0,118,360,1,Urbano,S
+LP002467,Masculino,Sim,0,Superior,Nao,3708,2569,173,360,1,Urbano,N
+LP002472,Masculino,Nao,2,Superior,Nao,4354,0,136,360,1,Rural,S
+LP002473,Masculino,Sim,0,Superior,Nao,8334,0,160,360,1,SemiUrbano,N
+LP002478,,Sim,0,Superior,Sim,2083,4083,160,360,,SemiUrbano,S
+LP002484,Masculino,Sim,3+,Superior,Nao,7740,0,128,180,1,Urbano,S
+LP002487,Masculino,Sim,0,Superior,Nao,3015,2188,153,360,1,Rural,S
+LP002489,Feminino,Nao,1,Nao Superior,,5191,0,132,360,1,SemiUrbano,S
+LP002493,Masculino,Nao,0,Superior,Nao,4166,0,98,360,0,SemiUrbano,N
+LP002494,Masculino,Nao,0,Superior,Nao,6000,0,140,360,1,Rural,S
+LP002500,Masculino,Sim,3+,Nao Superior,Nao,2947,1664,70,180,0,Urbano,N
+LP002501,,Sim,0,Superior,Nao,16692,0,110,360,1,SemiUrbano,S
+LP002502,Feminino,Sim,2,Nao Superior,,210,2917,98,360,1,SemiUrbano,S
+LP002505,Masculino,Sim,0,Superior,Nao,4333,2451,110,360,1,Urbano,N
+LP002515,Masculino,Sim,1,Superior,Sim,3450,2079,162,360,1,SemiUrbano,S
+LP002517,Masculino,Sim,1,Nao Superior,Nao,2653,1500,113,180,0,Rural,N
+LP002519,Masculino,Sim,3+,Superior,Nao,4691,0,100,360,1,SemiUrbano,S
+LP002522,Feminino,Nao,0,Superior,Sim,2500,0,93,360,,Urbano,S
+LP002524,Masculino,Nao,2,Superior,Nao,5532,4648,162,360,1,Rural,S
+LP002527,Masculino,Sim,2,Superior,Sim,16525,1014,150,360,1,Rural,S
+LP002529,Masculino,Sim,2,Superior,Nao,6700,1750,230,300,1,SemiUrbano,S
+LP002530,,Sim,2,Superior,Nao,2873,1872,132,360,0,SemiUrbano,N
+LP002531,Masculino,Sim,1,Superior,Sim,16667,2250,86,360,1,SemiUrbano,S
+LP002533,Masculino,Sim,2,Superior,Nao,2947,1603,,360,1,Urbano,N
+LP002534,Feminino,Nao,0,Nao Superior,Nao,4350,0,154,360,1,Rural,S
+LP002536,Masculino,Sim,3+,Nao Superior,Nao,3095,0,113,360,1,Rural,S
+LP002537,Masculino,Sim,0,Superior,Nao,2083,3150,128,360,1,SemiUrbano,S
+LP002541,Masculino,Sim,0,Superior,Nao,10833,0,234,360,1,SemiUrbano,S
+LP002543,Masculino,Sim,2,Superior,Nao,8333,0,246,360,1,SemiUrbano,S
+LP002544,Masculino,Sim,1,Nao Superior,Nao,1958,2436,131,360,1,Rural,S
+LP002545,Masculino,Nao,2,Superior,Nao,3547,0,80,360,0,Rural,N
+LP002547,Masculino,Sim,1,Superior,Nao,18333,0,500,360,1,Urbano,N
+LP002555,Masculino,Sim,2,Superior,Sim,4583,2083,160,360,1,SemiUrbano,S
+LP002556,Masculino,Nao,0,Superior,Nao,2435,0,75,360,1,Urbano,N
+LP002560,Masculino,Nao,0,Nao Superior,Nao,2699,2785,96,360,,SemiUrbano,S
+LP002562,Masculino,Sim,1,Nao Superior,Nao,5333,1131,186,360,,Urbano,S
+LP002571,Masculino,Nao,0,Nao Superior,Nao,3691,0,110,360,1,Rural,S
+LP002582,Feminino,Nao,0,Nao Superior,Sim,17263,0,225,360,1,SemiUrbano,S
+LP002585,Masculino,Sim,0,Superior,Nao,3597,2157,119,360,0,Rural,N
+LP002586,Feminino,Sim,1,Superior,Nao,3326,913,105,84,1,SemiUrbano,S
+LP002587,Masculino,Sim,0,Nao Superior,Nao,2600,1700,107,360,1,Rural,S
+LP002588,Masculino,Sim,0,Superior,Nao,4625,2857,111,12,,Urbano,S
+LP002600,Masculino,Sim,1,Superior,Sim,2895,0,95,360,1,SemiUrbano,S
+LP002602,Masculino,Nao,0,Superior,Nao,6283,4416,209,360,0,Rural,N
+LP002603,Feminino,Nao,0,Superior,Nao,645,3683,113,480,1,Rural,S
+LP002606,Feminino,Nao,0,Superior,Nao,3159,0,100,360,1,SemiUrbano,S
+LP002615,Masculino,Sim,2,Superior,Nao,4865,5624,208,360,1,SemiUrbano,S
+LP002618,Masculino,Sim,1,Nao Superior,Nao,4050,5302,138,360,,Rural,N
+LP002619,Masculino,Sim,0,Nao Superior,Nao,3814,1483,124,300,1,SemiUrbano,S
+LP002622,Masculino,Sim,2,Superior,Nao,3510,4416,243,360,1,Rural,S
+LP002624,Masculino,Sim,0,Superior,Nao,20833,6667,480,360,,Urbano,S
+LP002625,,Nao,0,Superior,Nao,3583,0,96,360,1,Urbano,N
+LP002626,Masculino,Sim,0,Superior,Sim,2479,3013,188,360,1,Urbano,S
+LP002634,Feminino,Nao,1,Superior,Nao,13262,0,40,360,1,Urbano,S
+LP002637,Masculino,Nao,0,Nao Superior,Nao,3598,1287,100,360,1,Rural,N
+LP002640,Masculino,Sim,1,Superior,Nao,6065,2004,250,360,1,SemiUrbano,S
+LP002643,Masculino,Sim,2,Superior,Nao,3283,2035,148,360,1,Urbano,S
+LP002648,Masculino,Sim,0,Superior,Nao,2130,6666,70,180,1,SemiUrbano,N
+LP002652,Masculino,Nao,0,Superior,Nao,5815,3666,311,360,1,Rural,N
+LP002659,Masculino,Sim,3+,Superior,Nao,3466,3428,150,360,1,Rural,S
+LP002670,Feminino,Sim,2,Superior,Nao,2031,1632,113,480,1,SemiUrbano,S
+LP002682,Masculino,Sim,,Nao Superior,Nao,3074,1800,123,360,0,SemiUrbano,N
+LP002683,Masculino,Nao,0,Superior,Nao,4683,1915,185,360,1,SemiUrbano,N
+LP002684,Feminino,Nao,0,Nao Superior,Nao,3400,0,95,360,1,Rural,N
+LP002689,Masculino,Sim,2,Nao Superior,Nao,2192,1742,45,360,1,SemiUrbano,S
+LP002690,Masculino,Nao,0,Superior,Nao,2500,0,55,360,1,SemiUrbano,S
+LP002692,Masculino,Sim,3+,Superior,Sim,5677,1424,100,360,1,Rural,S
+LP002693,Masculino,Sim,2,Superior,Sim,7948,7166,480,360,1,Rural,S
+LP002697,Masculino,Nao,0,Superior,Nao,4680,2087,,360,1,SemiUrbano,N
+LP002699,Masculino,Sim,2,Superior,Sim,17500,0,400,360,1,Rural,S
+LP002705,Masculino,Sim,0,Superior,Nao,3775,0,110,360,1,SemiUrbano,S
+LP002706,Masculino,Sim,1,Nao Superior,Nao,5285,1430,161,360,0,SemiUrbano,S
+LP002714,Masculino,Nao,1,Nao Superior,Nao,2679,1302,94,360,1,SemiUrbano,S
+LP002716,Masculino,Nao,0,Nao Superior,Nao,6783,0,130,360,1,SemiUrbano,S
+LP002717,Masculino,Sim,0,Superior,Nao,1025,5500,216,360,,Rural,S
+LP002720,Masculino,Sim,3+,Superior,Nao,4281,0,100,360,1,Urbano,S
+LP002723,Masculino,Nao,2,Superior,Nao,3588,0,110,360,0,Rural,N
+LP002729,Masculino,Nao,1,Superior,Nao,11250,0,196,360,,SemiUrbano,N
+LP002731,Feminino,Nao,0,Nao Superior,Sim,18165,0,125,360,1,Urbano,S
+LP002732,Masculino,Nao,0,Nao Superior,,2550,2042,126,360,1,Rural,S
+LP002734,Masculino,Sim,0,Superior,Nao,6133,3906,324,360,1,Urbano,S
+LP002738,Masculino,Nao,2,Superior,Nao,3617,0,107,360,1,SemiUrbano,S
+LP002739,Masculino,Sim,0,Nao Superior,Nao,2917,536,66,360,1,Rural,N
+LP002740,Masculino,Sim,3+,Superior,Nao,6417,0,157,180,1,Rural,S
+LP002741,Feminino,Sim,1,Superior,Nao,4608,2845,140,180,1,SemiUrbano,S
+LP002743,Feminino,Nao,0,Superior,Nao,2138,0,99,360,0,SemiUrbano,N
+LP002753,Feminino,Nao,1,Superior,,3652,0,95,360,1,SemiUrbano,S
+LP002755,Masculino,Sim,1,Nao Superior,Nao,2239,2524,128,360,1,Urbano,S
+LP002757,Feminino,Sim,0,Nao Superior,Nao,3017,663,102,360,,SemiUrbano,S
+LP002767,Masculino,Sim,0,Superior,Nao,2768,1950,155,360,1,Rural,S
+LP002768,Masculino,Nao,0,Nao Superior,Nao,3358,0,80,36,1,SemiUrbano,N
+LP002772,Masculino,Nao,0,Superior,Nao,2526,1783,145,360,1,Rural,S
+LP002776,Feminino,Nao,0,Superior,Nao,5000,0,103,360,0,SemiUrbano,N
+LP002777,Masculino,Sim,0,Superior,Nao,2785,2016,110,360,1,Rural,S
+LP002778,Masculino,Sim,2,Superior,Sim,6633,0,,360,0,Rural,N
+LP002784,Masculino,Sim,1,Nao Superior,Nao,2492,2375,,360,1,Rural,S
+LP002785,Masculino,Sim,1,Superior,Nao,3333,3250,158,360,1,Urbano,S
+LP002788,Masculino,Sim,0,Nao Superior,Nao,2454,2333,181,360,0,Urbano,N
+LP002789,Masculino,Sim,0,Superior,Nao,3593,4266,132,180,0,Rural,N
+LP002792,Masculino,Sim,1,Superior,Nao,5468,1032,26,360,1,SemiUrbano,S
+LP002794,Feminino,Nao,0,Superior,Nao,2667,1625,84,360,,Urbano,S
+LP002795,Masculino,Sim,3+,Superior,Sim,10139,0,260,360,1,SemiUrbano,S
+LP002798,Masculino,Sim,0,Superior,Nao,3887,2669,162,360,1,SemiUrbano,S
+LP002804,Feminino,Sim,0,Superior,Nao,4180,2306,182,360,1,SemiUrbano,S
+LP002807,Masculino,Sim,2,Nao Superior,Nao,3675,242,108,360,1,SemiUrbano,S
+LP002813,Feminino,Sim,1,Superior,Sim,19484,0,600,360,1,SemiUrbano,S
+LP002820,Masculino,Sim,0,Superior,Nao,5923,2054,211,360,1,Rural,S
+LP002821,Masculino,Nao,0,Nao Superior,Sim,5800,0,132,360,1,SemiUrbano,S
+LP002832,Masculino,Sim,2,Superior,Nao,8799,0,258,360,0,Urbano,N
+LP002833,Masculino,Sim,0,Nao Superior,Nao,4467,0,120,360,,Rural,S
+LP002836,Masculino,Nao,0,Superior,Nao,3333,0,70,360,1,Urbano,S
+LP002837,Masculino,Sim,3+,Superior,Nao,3400,2500,123,360,0,Rural,N
+LP002840,Feminino,Nao,0,Superior,Nao,2378,0,9,360,1,Urbano,N
+LP002841,Masculino,Sim,0,Superior,Nao,3166,2064,104,360,0,Urbano,N
+LP002842,Masculino,Sim,1,Superior,Nao,3417,1750,186,360,1,Urbano,S
+LP002847,Masculino,Sim,,Superior,Nao,5116,1451,165,360,0,Urbano,N
+LP002855,Masculino,Sim,2,Superior,Nao,16666,0,275,360,1,Urbano,S
+LP002862,Masculino,Sim,2,Nao Superior,Nao,6125,1625,187,480,1,SemiUrbano,N
+LP002863,Masculino,Sim,3+,Superior,Nao,6406,0,150,360,1,SemiUrbano,N
+LP002868,Masculino,Sim,2,Superior,Nao,3159,461,108,84,1,Urbano,S
+LP002872,,Sim,0,Superior,Nao,3087,2210,136,360,0,SemiUrbano,N
+LP002874,Masculino,Nao,0,Superior,Nao,3229,2739,110,360,1,Urbano,S
+LP002877,Masculino,Sim,1,Superior,Nao,1782,2232,107,360,1,Rural,S
+LP002888,Masculino,Nao,0,Superior,,3182,2917,161,360,1,Urbano,S
+LP002892,Masculino,Sim,2,Superior,Nao,6540,0,205,360,1,SemiUrbano,S
+LP002893,Masculino,Nao,0,Superior,Nao,1836,33837,90,360,1,Urbano,N
+LP002894,Feminino,Sim,0,Superior,Nao,3166,0,36,360,1,SemiUrbano,S
+LP002898,Masculino,Sim,1,Superior,Nao,1880,0,61,360,,Rural,N
+LP002911,Masculino,Sim,1,Superior,Nao,2787,1917,146,360,0,Rural,N
+LP002912,Masculino,Sim,1,Superior,Nao,4283,3000,172,84,1,Rural,N
+LP002916,Masculino,Sim,0,Superior,Nao,2297,1522,104,360,1,Urbano,S
+LP002917,Feminino,Nao,0,Nao Superior,Nao,2165,0,70,360,1,SemiUrbano,S
+LP002925,,Nao,0,Superior,Nao,4750,0,94,360,1,SemiUrbano,S
+LP002926,Masculino,Sim,2,Superior,Sim,2726,0,106,360,0,SemiUrbano,N
+LP002928,Masculino,Sim,0,Superior,Nao,3000,3416,56,180,1,SemiUrbano,S
+LP002931,Masculino,Sim,2,Superior,Sim,6000,0,205,240,1,SemiUrbano,N
+LP002933,,Nao,3+,Superior,Sim,9357,0,292,360,1,SemiUrbano,S
+LP002936,Masculino,Sim,0,Superior,Nao,3859,3300,142,180,1,Rural,S
+LP002938,Masculino,Sim,0,Superior,Sim,16120,0,260,360,1,Urbano,S
+LP002940,Masculino,Nao,0,Nao Superior,Nao,3833,0,110,360,1,Rural,S
+LP002941,Masculino,Sim,2,Nao Superior,Sim,6383,1000,187,360,1,Rural,N
+LP002943,Masculino,Nao,,Superior,Nao,2987,0,88,360,0,SemiUrbano,N
+LP002945,Masculino,Sim,0,Superior,Sim,9963,0,180,360,1,Rural,S
+LP002948,Masculino,Sim,2,Superior,Nao,5780,0,192,360,1,Urbano,S
+LP002949,Feminino,Nao,3+,Superior,,416,41667,350,180,,Urbano,N
+LP002950,Masculino,Sim,0,Nao Superior,,2894,2792,155,360,1,Rural,S
+LP002953,Masculino,Sim,3+,Superior,Nao,5703,0,128,360,1,Urbano,S
+LP002958,Masculino,Nao,0,Superior,Nao,3676,4301,172,360,1,Rural,S
+LP002959,Feminino,Sim,1,Superior,Nao,12000,0,496,360,1,SemiUrbano,S
+LP002960,Masculino,Sim,0,Nao Superior,Nao,2400,3800,,180,1,Urbano,N
+LP002961,Masculino,Sim,1,Superior,Nao,3400,2500,173,360,1,SemiUrbano,S
+LP002964,Masculino,Sim,2,Nao Superior,Nao,3987,1411,157,360,1,Rural,S
+LP002974,Masculino,Sim,0,Superior,Nao,3232,1950,108,360,1,Rural,S
+LP002978,Feminino,Nao,0,Superior,Nao,2900,0,71,360,1,Rural,S
+LP002979,Masculino,Sim,3+,Superior,Nao,4106,0,40,180,1,Rural,S
+LP002983,Masculino,Sim,1,Superior,Nao,8072,240,253,360,1,Urbano,S
+LP002984,Masculino,Sim,2,Superior,Nao,7583,0,187,360,1,Urbano,S
+LP002990,Feminino,Nao,0,Superior,Sim,4583,0,133,360,0,SemiUrbano,N

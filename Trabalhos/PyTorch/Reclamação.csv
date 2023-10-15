@@ -1,0 +1,69 @@
+NUMDEMANDA;NUMCESTA;CESTA;NUMPRODUTO;PRODUTO;NUMSERVICO;SERVICO;DESCDEMANDA
+1;1;Pagamento de;51;Contas de água, luz, telefone;101;Agua;está faltando agua aqui em casa 
+2;1;Pagamento de;51;Contas de água, luz, telefone;101;Agua;não paguei as contas de agua
+3;1;Pagamento de;51;Contas de água, luz, telefone;102;luz;está faltando luz aqui em casa
+4;1;Pagamento de;51;Contas de água, luz, telefone;102;luz;Está tudo escuro
+5;1;Pagamento de;51;Contas de água, luz, telefone;102;luz;não paguei a conta de luz
+6;1;Pagamento de;51;Contas de água, luz, telefone;103;telefone;não paguei a conta de telefone
+7;1;Pagamento de;51;Contas de água, luz, telefone;103;telefone;o aparelho está mudo
+8;1;Pagamento de;52;Boleto ;104;2 via;Quero pagar a conta de luz
+9;1;Pagamento de;52;Boleto ;104;2 via;2 via da conta
+10;1;Pagamento de;54;Prestação de habitação;105;2 via;2 via da casa propria
+11;1;Pagamento de;55;Prestação de habitação;105;2 via;atrasei a conta da habitação
+12;1;Pagamento de;56;Prestação de habitação;105;2 via;como faço para pagar a minha casapropria
+13;1;Pagamento de;57;Prestação de habitação;105;2 via;a prestção atrasou e vou ficar na rua
+14;1;Pagamento de;57;Tributo Municipal, Estadual e Federal;106;Municipal;pagar o ISS
+15;1;Pagamento de;58;Tributo Municipal, Estadual e Federal;106;Municipal;atrasei o IPTU
+16;1;Pagamento de;59;Tributo Municipal, Estadual e Federal;106;Municipal;como pagar o IPVA e o IPTU atrasados
+17;1;Pagamento de;60;Tributo Municipal, Estadual e Federal;106;Municipal;taxa de incêndio
+18;1;Pagamento de;61;Tributo Municipal, Estadual e Federal;106;Municipal;não há norma que impeça a cobrança da taxa de incêndio. 
+19;1;Pagamento de;62;Tributo Municipal, Estadual e Federal;106;Municipal;Isso ocorre quando alguém paga, por exemplo, o IPTU (imposto municipal) ou o IPVA (estadual) cujas verbas são de livre aplicação
+20;1;Pagamento de;57;Tributo Municipal, Estadual e Federal;107;Estadual;pagar o ICMS
+21;1;Pagamento de;58;Tributo Municipal, Estadual e Federal;107;Estadual;ITCMD: Imposto de transmissão causa mortis e doação.
+22;1;Pagamento de;59;Tributo Municipal, Estadual e Federal;107;Estadual;como pagar o IPVA  atrasado
+23;1;Pagamento de;60;Tributo Municipal, Estadual e Federal;107;Estadual;gerar 2 via do dos impostos IPVA e ICMS
+24;1;Pagamento de;61;Tributo Municipal, Estadual e Federal;107;Estadual;IPVA: Imposto sobre a propriedade de motores automotores.
+25;1;Pagamento de;62;Tributo Municipal, Estadual e Federal;107;Estadual;ICMS: Impostos sobre circulação de mercadorias e serviços.
+26;1;Pagamento de;57;Tributo Municipal, Estadual e Federal;108;Federal;II: Imposto sobre importação, para mercadorias vindas de fora do país. 
+27;1;Pagamento de;58;Tributo Municipal, Estadual e Federal;108;Federal;IOF: Imposto sobre operações financeiras, para empréstimos, ações e demais ações financeiras
+28;1;Pagamento de;59;Tributo Municipal, Estadual e Federal;108;Federal;IPI: Imposto sobre produtos industrializados, para a indústria
+29;1;Pagamento de;60;Tributo Municipal, Estadual e Federal;108;Federal;IRPF: Imposto de Renda Pessoa Física, sobre a renda do cidadão 
+30;1;Pagamento de;61;Tributo Municipal, Estadual e Federal;108;Federal;IRPJ: Imposto de Renda Pessoa Jurídica, sobre a renda de CNPJs
+31;1;Pagamento de;62;Tributo Municipal, Estadual e Federal;108;Federal;Cofins: Contribuição de financiamento da seguridade social
+32;1;Pagamento de;63;Tributo Municipal, Estadual e Federal;108;Federal;PIS: Programa de Integração Social
+33;1;Pagamento de;64;Tributo Municipal, Estadual e Federal;108;Federal;CSLL: Contribuição social sobre lucro líquido
+34;1;Pagamento de;65;Tributo Municipal, Estadual e Federal;108;Federal;INSS: Instituto Nacional do Seguro Social
+35;1;Pagamento de;51;Contas de água, luz, telefone;101;Agua;está faltando agua aqui em casa
+36;1;Pagamento de;51;Contas de água, luz, telefone;101;Agua;não paguei a conta de agua
+37;1;Pagamento de;51;Contas de água, luz, telefone;102;luz;está faltando luz aqui em casa
+38;1;Pagamento de;51;Contas de água, luz, telefone;102;luz;Está tudo escuro
+39;1;Pagamento de;51;Contas de água, luz, telefone;102;luz;não paguei a conta de luz
+40;1;Pagamento de;51;Contas de água, luz, telefone;103;telefone;não paguei a conta de telefone
+41;1;Pagamento de;51;Contas de água, luz, telefone;103;telefone;o aparelho está mudo
+42;1;Pagamento de;52;Boleto ;104;2 via;Quero pagar a conta de luz
+43;1;Pagamento de;52;Boleto ;104;2 via;2 via da conta
+44;1;Pagamento de;54;Prestação de habitação;105;2 via;2 via da casa propria
+45;1;Pagamento de;55;Prestação de habitação;105;2 via;atrasei a conta da habitação
+46;1;Pagamento de;56;Prestação de habitação;105;2 via;como faço para pagar a minha casapropria
+47;1;Pagamento de;57;Prestação de habitação;105;2 via;a prestção atrasou e vou ficar na rua
+48;1;Pagamento de;57;Tributo Municipal, Estadual e Federal;106;Municipal;pagar o ISS
+49;1;Pagamento de;58;Tributo Municipal, Estadual e Federal;106;Municipal;atrasei o IPTU
+50;1;Pagamento de;59;Tributo Municipal, Estadual e Federal;106;Municipal;como pagar o IPVA e o IPTU atrasados
+51;1;Pagamento de;60;Tributo Municipal, Estadual e Federal;106;Municipal;taxa de incêndio
+52;1;Pagamento de;61;Tributo Municipal, Estadual e Federal;106;Municipal;não há norma que impeça a cobrança da taxa de incêndio. 
+53;1;Pagamento de;62;Tributo Municipal, Estadual e Federal;106;Municipal;Isso ocorre quando alguém paga, por exemplo, o IPTU (imposto municipal) ou o IPVA (estadual) cujas verbas são de livre aplicação
+54;1;Pagamento de;57;Tributo Municipal, Estadual e Federal;107;Estadual;pagar o ICMS
+55;1;Pagamento de;58;Tributo Municipal, Estadual e Federal;107;Estadual;ITCMD: Imposto de transmissão causa mortis e doação.
+56;1;Pagamento de;59;Tributo Municipal, Estadual e Federal;107;Estadual;como pagar o IPVA  atrasado
+57;1;Pagamento de;60;Tributo Municipal, Estadual e Federal;107;Estadual;gerar 2 via do dos impostos IPVA e ICMS
+58;1;Pagamento de;61;Tributo Municipal, Estadual e Federal;107;Estadual;IPVA: Imposto sobre a propriedade de motores automotores.
+59;1;Pagamento de;62;Tributo Municipal, Estadual e Federal;107;Estadual;ICMS: Impostos sobre circulação de mercadorias e serviços.
+60;1;Pagamento de;57;Tributo Municipal, Estadual e Federal;108;Federal;II: Imposto sobre importação, para mercadorias vindas de fora do país. 
+61;1;Pagamento de;58;Tributo Municipal, Estadual e Federal;108;Federal;IOF: Imposto sobre operações financeiras, para empréstimos, ações e demais ações financeiras
+62;1;Pagamento de;59;Tributo Municipal, Estadual e Federal;108;Federal;IPI: Imposto sobre produtos industrializados, para a indústria
+63;1;Pagamento de;60;Tributo Municipal, Estadual e Federal;108;Federal;IRPF: Imposto de Renda Pessoa Física, sobre a renda do cidadão 
+64;1;Pagamento de;61;Tributo Municipal, Estadual e Federal;108;Federal;IRPJ: Imposto de Renda Pessoa Jurídica, sobre a renda de CNPJs
+65;1;Pagamento de;62;Tributo Municipal, Estadual e Federal;108;Federal;Cofins: Contribuição de financiamento da seguridade social
+66;1;Pagamento de;63;Tributo Municipal, Estadual e Federal;108;Federal;PIS: Programa de Integração Social
+67;1;Pagamento de;64;Tributo Municipal, Estadual e Federal;108;Federal;CSLL: Contribuição social sobre lucro líquido
+68;1;Pagamento de;65;Tributo Municipal, Estadual e Federal;108;Federal;INSS: Instituto Nacional do Seguro Social
